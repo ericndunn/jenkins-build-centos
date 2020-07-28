@@ -129,7 +129,6 @@ plugin-util-api
 popper-api
 powershell
 pubsub-light
-quality-gates
 resource-disposer
 reverse-proxy-auth-plugin
 role-strategy
