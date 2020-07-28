@@ -6,7 +6,6 @@ ant
 antisamy-markup-formatter
 apache-httpcomponents-client-4-api
 authentication-tokens
-backup
 blueocean
 blueocean-autofavorite
 blueocean-bitbucket-pipeline
@@ -35,7 +34,6 @@ branch-api
 build-blocker-plugin
 build-name-setter
 build-timeout
-cloudbees-bitbucket-branch-source
 cloudbees-folder
 command-launcher
 conditional-buildstep
@@ -45,7 +43,6 @@ configurationslicing
 copyartifact
 credentials
 credentials-binding
-cvs
 dashboard-view
 data-tables-api
 dependency-check-jenkins-plugin
@@ -57,8 +54,6 @@ dtkit-api
 durable-task
 echarts-api
 email-ext
-envinject
-envinject-api
 extended-read-permission
 external-monitor-job
 external-workspace-manager
@@ -89,7 +84,6 @@ jenkins-design-language
 jenkinslint
 jira
 job-dsl
-job-restrictions
 jobConfigHistory
 jquery
 jquery-detached
@@ -105,10 +99,8 @@ mapdb-api
 matrix-auth
 matrix-project
 maven-plugin
-mercurial
 metrics
 momentjs
-msbuild
 nexus-jenkins-plugin
 node-iterator-api
 nodelabelparameter
@@ -116,7 +108,6 @@ Office-365-Connector
 okhttp-api
 openJDK-native-plugin
 pam-auth
-parameterized-trigger
 periodicbackup
 pipeline-build-step
 pipeline-github-lib
@@ -137,7 +128,6 @@ plain-credentials
 plugin-util-api
 popper-api
 powershell
-PrioritySorter
 pubsub-light
 quality-gates
 resource-disposer
@@ -156,7 +146,6 @@ sse-gateway
 ssh-credentials
 ssh-slaves
 structs
-subversion
 test-stability
 thinBackup
 timestamper
